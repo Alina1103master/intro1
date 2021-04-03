@@ -8,7 +8,7 @@
 В результате тестирования выявлены следующие дефекты:
 * https://github.com/Alina1103master/intro1/issues/1
 * <ссылка на описание дефектаhttps://github.com/Alina1103master/intro1/issues/2
-* <ссылка на описание дефекта>
+* <ссылка на https://github.com/Alina1103master/intro1/issues/3 дефекта>
 
 ## Описание процесса тестирования
 
